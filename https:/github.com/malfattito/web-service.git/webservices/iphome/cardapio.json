@@ -1,10 +1,65 @@
-[
-	{
-	},
-	{
-	},
-	{
-	},
-	{
-	}
-]
+{
+	nome_empresa: "iPhome Food Park",
+	endereco: "Av. Teotonio Segurado 102 Norte",
+	latitude: "-10.177710",
+	longitude: "-48.332699",
+	[
+		{
+			nome_item: "Mussarela",
+			classificacao: "1",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/mussarela.jpg"
+		},
+		{
+			nome_item: "Calabresa",
+			classificacao: "2",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/calabresa.jpg"
+			
+		},
+		{
+			nome_item: "California",
+			classificacao: "3",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/mussarela.jpg"
+			
+		},
+		{
+			nome_item: "Porguguesa",
+			classificacao: "3",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/portuguesa.jpg"
+		},
+		{
+			nome_item: "Quatro Queijos",
+			classificacao: "2",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/quatro_queijos.jpg"
+		},
+		{
+			nome_item: "Cervejas",
+			classificacao: "3",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/cervejas.jpg"
+		},
+		{
+			nome_item: "Vinhos",
+			classificacao: "3",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/vinhos.jpg"
+		},
+		{
+			nome_item: "Sucos",
+			classificacao: "2",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/sucos.jpg"
+		},
+		{
+			nome_item: "Sorvete",
+			classificacao: "3",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/sorvete.jpg"
+		},
+		{
+			nome_item: "Torta Doce",
+			classificacao: "2",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/torta_doce.jpg"
+		},
+		{
+			nome_item: "Salada de Frutas",
+			classificacao: "1",
+			imagem: "https://github.com/malfattito/web-service/blob/master/https:/github.com/malfattito/web-service.git/webservices/iphome/images/salada_de_frutas.jpg"
+		},	
+	]
+}
